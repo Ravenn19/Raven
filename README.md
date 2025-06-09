@@ -9,7 +9,7 @@
   <br>
   🚀 Passionate about Web Development, Databases & Machine Learning  
   <br>
-  🌐 Currently working on <a href="https://technopark.itpln.ac.id">Buib Institut Teknologi PLN Jakakrta</a>
+  🌐 Currently working on <a href="https://technopark.itpln.ac.id">Buib Institut Teknologi PLN Jakarta</a>
 </p>
 
 ---
