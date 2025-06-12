@@ -69,6 +69,32 @@
 
 ---
 
+<h1 align="center">🧠 AI Lab Console</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00FFD1&center=true&vCenter=true&multiline=true&width=600&lines=%3E+Initializing+Neural+Link...;%3E+Booting+ML+Models...;%3E+Loading+Data+Pipelines...;%3E+Analyzing+Trends...;%3E+Deploying+AI+Solutions..." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="ai-animated-terminal"/>
+</p>
+
+---
+
+### 🧪 Current Lab Projects:
+- 🤖 Deep Learning Model for Image Classification
+- 📊 Sales Data Forecasting using Prophet
+- 📌 Feature Engineering Toolkit with Python
+- 🧹 Data Cleaning Pipelines for Real-World Datasets
+- 🌐 NLP Bot for Customer Support
+
+---
+
+<div align="center">
+  <strong>🛠️ Status:</strong> All systems operational. Awaiting next data set...
+</div>
+
+
 ## 📬 Reach Me
 
 <p align="left">
