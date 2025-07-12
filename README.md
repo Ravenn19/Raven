@@ -100,7 +100,7 @@
 ## 📬 Reach Me
 
 <p align="left">
-  <a href="mailto:ranggafarisya12@gmail.com"><img src="https://img.shields.io/badge/Gmail-ranggafarisya12@gmail.com-red?style=flat&logo=gmail&logoColor=white"></a><br>
+  <a href="mailto:nandarevan96@gmail.com"><img src="https://img.shields.io/badge/Gmail-nandarevan96@gmail.com-red?style=flat&logo=gmail&logoColor=white"></a><br>
   <a href="https://www.linkedin.com/in/nanda-revan-saputro-3b89ab284/"><img src="https://img.shields.io/badge/LinkedIn-Nanda%20Revan-blue?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
