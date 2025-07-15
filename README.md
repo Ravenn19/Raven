@@ -96,6 +96,20 @@
   <strong>🛠️ Status:</strong> All systems operational. Awaiting next data set...
 </div>
 
+
+## 📬 Reach Me
+
+<p align="left">
+  <a href="mailto:nandarevan96@gmail.com"><img src="https://img.shields.io/badge/Gmail-nandarevan96@gmail.com-red?style=flat&logo=gmail&logoColor=white"></a><br>
+  <a href="https://www.linkedin.com/in/nanda-revan-saputro-3b89ab284/"><img src="https://img.shields.io/badge/LinkedIn-Nanda%20Revan-blue?style=flat&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!;Let’s+build+something+cool+together!&center=true&color=00F7FF&vCenter=true&size=18" />
+</p>
+
 ## 🎮 Developer Console Simulator
 
 ```javascript
@@ -110,17 +124,3 @@ const developer = {
 
 console.log(`🚀 ${developer.name} is ${developer.status}...`);
 // Output: 🚀 Nanda Revan Saputro is Coding...
-
-
-## 📬 Reach Me
-
-<p align="left">
-  <a href="mailto:nandarevan96@gmail.com"><img src="https://img.shields.io/badge/Gmail-nandarevan96@gmail.com-red?style=flat&logo=gmail&logoColor=white"></a><br>
-  <a href="https://www.linkedin.com/in/nanda-revan-saputro-3b89ab284/"><img src="https://img.shields.io/badge/LinkedIn-Nanda%20Revan-blue?style=flat&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!;Let’s+build+something+cool+together!&center=true&color=00F7FF&vCenter=true&size=18" />
-</p>
