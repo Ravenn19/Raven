@@ -96,6 +96,21 @@
   <strong>🛠️ Status:</strong> All systems operational. Awaiting next data set...
 </div>
 
+## 🎮 Developer Console Simulator
+
+```javascript
+const developer = {
+  name: "Nanda Revan Saputro",
+  status: "Coding",
+  currentProject: "Technopark.ITPLN.ac.id",
+  stack: ["React", "Laravel", "Python", "ML"],
+  hobbies: ["Problem Solving", "Learning New Tech"],
+  motto: "Build solutions that matter"
+};
+
+console.log(`🚀 ${developer.name} is ${developer.status}...`);
+// Output: 🚀 Nanda Revan Saputro is Coding...
+
 
 ## 📬 Reach Me
 
